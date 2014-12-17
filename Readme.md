@@ -10,7 +10,7 @@
 
 Bitcoin: 1PHaQ2Qg6rR3Qo2FfLqjG6se529dQTCEAD
 
-## Overview
+## 概览(Overview)
 
 Espera is an open-source media player that plays audio files, YouTube videos, SoundCloud songs and has a special "party mode".
 
@@ -18,7 +18,7 @@ Espera is an open-source media player that plays audio files, YouTube videos, So
 
 ## Features
 
-## Remote control
+## 远程控制(Remote control)
 
 Espera has an [open remote control API](https://github.com/flagbug/Espera.Network) for e.g mobile devices.
 
